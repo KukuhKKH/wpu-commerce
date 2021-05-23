@@ -1,0 +1,10 @@
+produk
+kategori
+tag
+rating
+user (login)
+customer
+setting
+diskon
+transaksi
+transaksi detail
